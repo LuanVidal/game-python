@@ -1,2 +1,3 @@
 # game-python
-game made in python
+game made in python 
+by luan
